@@ -1,0 +1,6 @@
+Customers,Customers_Retained,Sales,Sales_Retained,Products,Years,New_Products,Service_Locations,Discontinued_Products,New_Locations,Closed_Locations
+150,120,50000,45000,30,2021,15,5,2,10,3
+200,160,75000,68000,40,2022,20,8,3,15,5
+180,140,62000,55000,35,2020,18,6,1,12,2
+220,180,85000,78000,45,2023,22,10,4,18,7
+170,130,58000,51000,32,2019,17,7,2,14,4
